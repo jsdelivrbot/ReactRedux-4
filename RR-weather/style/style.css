@@ -1,0 +1,12 @@
+.input-group{
+    margin: 20px 0px
+}
+td,th{
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+#map:first-child{
+    height: 100%;
+    width: 100%;
+}
